@@ -45,7 +45,7 @@
         });
 
         var flexSliderObj = flexSlider.data('flexslider');
-        flexSliderObj.pause();
+        if (flexSliderObj) flexSliderObj.pause();
 
         $(".speaker-link").click(function (e){
             var speakerId = $(e.currentTarget).data('speakerId');

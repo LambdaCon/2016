@@ -1,2 +1,2 @@
 # LambdaCon
-[LambdaCon 2016](http://www.lambdacon.org/2016) slides and sources.
+[LambdaCon 2020](http://www.lambdacon.org/2020) slides and sources.
